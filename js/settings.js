@@ -1,12 +1,12 @@
 // LRS Connection
 let scormReporting = false;
 let xAPIReporting = true;
-let kerRef = "193cfb8a1c1b220b3006f3ec0ab3c7c3af239fa3";
-let secretRef = "7f9ed13fa42460ce7a227fe80c012880ea2e1d32";
-let endPointRef = "https://localhost/data/xAPI/"
+let kerRef = "b16e8b5df0f4a1af1d1ce75afe5e74f8c5159467";
+let secretRef = "5587fd53d695185892134016128c96e74ed165b2";
+let endPointRef = "https://35.202.253.36/data/xAPI/"
 
 //Reporting Variables
-let objectID = "https://www.learningdojo.net/xapi/course1";
+let objectID = "https://www.edujob.com.br/xapi/curso1";
 let objectName = "Video Vímemo";
 
 // Display labels
